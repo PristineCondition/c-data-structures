@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1713101700 source:c:\users\vincent\documents\c-data-structures\trees\avl\avl znader\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"avlHeader.h"
+
+1713101700 c:\users\vincent\documents\c-data-structures\trees\avl\avl znader\avlheader.h
+
+1713101700 source:c:\users\vincent\documents\c-data-structures\trees\avl\avl znader\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"avlHeader.h"
+
